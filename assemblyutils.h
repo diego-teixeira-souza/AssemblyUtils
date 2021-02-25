@@ -7,7 +7,7 @@
  * many seted bits have.
  * RETURNS the total count of seted bits.
  */
-extern "C" unsigned int countBits32(unsigned int);
+//extern "C" unsigned int countBits32(unsigned int);
 
 /***************************************************************
  * isEven
@@ -15,28 +15,28 @@ extern "C" unsigned int countBits32(unsigned int);
  * if is even. 
  * RETURNS true if is Even.
  */
-extern "C" bool isEven(unsigned int);
+//extern "C" bool isEven(unsigned int);
 
 /***************************************************************
  * factorial
  * RECEIVES the an 32 bit unsigned integer to computed.
  * RETURNS the factorial of N
  */
-extern "C" unsigned int factorial(unsigned int);
+//extern "C" unsigned int factorial(unsigned int);
 
 /***************************************************************
  * isStrEqual
  * RECEIVES two string pointers, and the length to be compared
  * RETURNS true if the length is equal, otherwise, false.
  */
- extern "C" bool isStrEqual(char*, char*, unsigned int);
+ //extern "C" bool isStrEqual(char*, char*, unsigned int);
  
  /***************************************************************
  * memCpy
  * RECEIVES two pointers to be copied and the length in bytes.
  * RETURNS Nothing
  */
- extern "C" void memCpy(void*, void*, unsigned int);
+ //extern "C" void memCpy(void*, void*, unsigned int);
  
   /***************************************************************
  * intDiv
@@ -44,6 +44,6 @@ extern "C" unsigned int factorial(unsigned int);
  * Performs an integer division, alwals round for more.
  * RETURNS The quotient
  */
-extern "C" int intDiv(int, int, int*);
+//extern "C" int intDiv(int, int, int*);
 
 #endif
