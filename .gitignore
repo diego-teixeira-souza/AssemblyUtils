@@ -1,4 +1,4 @@
 *
 
 !.gitignore
-!assemblyutils.h
+!./src/assemblyutils.h
