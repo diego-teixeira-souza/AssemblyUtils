@@ -1,4 +1,5 @@
-*
 !.gitignore
-!src/.gitignore
-!src/assemblyutils.h
+!src/
+
+test/
+.git/

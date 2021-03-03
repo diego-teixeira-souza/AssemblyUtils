@@ -1,0 +1,11 @@
+!assemblyutils.h
+!.gitignore
+
+countBits32/
+fatorial/
+HelloWorld/
+intDiv/
+intToChar/
+isEven/
+isStrEqual/
+memCpy/
