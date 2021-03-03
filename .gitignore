@@ -1,6 +1,5 @@
-*
 !.gitignore
-<<<<<<< HEAD
-=======
-!./scr/.gitignore
->>>>>>> revision-1
+!src/
+
+test/
+.git/
