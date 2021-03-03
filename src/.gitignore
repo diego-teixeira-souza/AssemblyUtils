@@ -1,4 +1,12 @@
-*
+
 !assemblyutils.h
 !.gitignore
 !/countBits32
+
+/factorial
+/HelloWorld
+/intDiv
+/intToChar
+/isEven
+/isStrEqual
+/memCpy
