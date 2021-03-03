@@ -2,7 +2,7 @@
 !.gitignore
 
 countBits32/
-fatorial/
+factorial/
 HelloWorld/
 intDiv/
 intToChar/
