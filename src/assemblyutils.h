@@ -7,7 +7,7 @@
  * many seted bits have.
  * RETURNS the total count of seted bits.
  */
-//extern "C" unsigned int countBits32(unsigned int);
+extern "C" unsigned int countBits32(unsigned int);
 
 /***************************************************************
  * isEven

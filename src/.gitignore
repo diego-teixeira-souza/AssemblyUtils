@@ -1,7 +1,7 @@
 !assemblyutils.h
 !.gitignore
+!countBits32/
 
-countBits32/
 factorial/
 HelloWorld/
 intDiv/
