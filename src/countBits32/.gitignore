@@ -1,3 +1,9 @@
-*
+
 !.gitignore
 !countBits32.asm
+!countBits32.cpp
+countBits32.exe
+countBits32.lib
+countBits32.obj
+countBits32.o
+makefile

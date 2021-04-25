@@ -1,5 +1,4 @@
-
-; ** Name 		 : countBits32
+; ** Name 		   : countBits32
 ; ** Description : Count how many 1s bits, have an 32bit variable
 ; ** Parameters  : An 32bit variable
 ; ** Returns     : The totan of 1s

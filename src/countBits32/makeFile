@@ -1,0 +1,10 @@
+# SECION VARIABLES
+VAR_OBJECT_LIST     = countBits32.o
+VAR_LINK_TARGET     = countBits32.exe
+VAR_BUILD_FILE_LIST = $(VAR_OBJECT_LIST) $(VAR_LINK_TARGET)
+
+# SECTION RULES
+clean: 
+	rm -f $(VAR_BUILD_FILE_LIST)
+	echo "Clean Done"
+
